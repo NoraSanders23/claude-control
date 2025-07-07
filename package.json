@@ -1,0 +1,10 @@
+{
+  "name": "claude-control",
+  "version": "0.1.0",
+  "description": "macOS desktop dashboard for monitoring and managing multiple Claude Code sessions",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
