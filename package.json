@@ -1,6 +1,6 @@
 {
   "name": "claude-control",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "macOS desktop dashboard for monitoring and managing multiple Claude Code sessions",
   "main": "src/index.ts",
   "scripts": {
